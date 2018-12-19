@@ -1,0 +1,25 @@
+img {
+	height: 100vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+nav {
+font-family: 'Roboto', sans-serif;
+}
+
+#menu {
+
+	position: 
+}
+
+/* The navigation bar */
+#menu {
+	margin: 11px;
+  position: absolute; /* Set the navbar to fixed position */
+  /* Position the navbar at the bottom of the page */
+  width: 100%; /* Full width */
+}
